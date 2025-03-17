@@ -71,7 +71,7 @@ li a:hover {
     font-weight: bold;    
 }
 .main-content{                                                          /*first page start*/
-    width: 100vw;
+    width: 100%;
     background-color: rgb(224, 224, 224);
     padding-top: 12%;
 }
@@ -635,7 +635,7 @@ h1{
                                                             /* fifth part start*/
 .fifth-part{
     height: 80vh;
-    width: 110vw;
+    width: 100%;
     padding-top: 5%;
 }
 .fifth-part .sub-box{
@@ -678,7 +678,7 @@ h1{
 
 .sixth-part{                                                        /* Sixth part start*/
     height: 47vh;
-    width: 110vw;
+    width: 100%;
     background-color: #142F32;
     text-align: center;
     color: white;
@@ -707,7 +707,7 @@ h1{
 }                                                                     /* Sixth part end*/
 .footer-part{
     height: 40vh;
-    width: 110vw;
+    width: 100%;
     background-color: black;
 }
 .footer-part .sub-box{
@@ -1018,7 +1018,7 @@ h1{
     }
     .fifth-part{
         height: 80vh;
-        width: 100%;
+        width: 110vw;
         padding-top: 5%;
     }
     .fifth-part .sub-box{
@@ -1047,6 +1047,7 @@ h1{
     .sixth-part{                                                        /* Sixth part start*/
         height: 30vh;
         padding-top: 6%;
+        width: 110vw;
     }
     .sixth-part .text-1{
         font-size: 25px;
@@ -1065,6 +1066,7 @@ h1{
     }
     .footer-part{
         height: 80vh;
+        width: 110vw;
     }
     .footer-part .sub-box{
         height: 70%;                        /**/
